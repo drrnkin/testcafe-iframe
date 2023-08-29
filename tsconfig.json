@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "strict": true,
+    "module": "commonjs",
+    "target": "es5",
+    "allowJs": true,
+    "pretty": true,
+	"noUnusedLocals": true,
+	"noUnusedParameters": true
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "**/dist"
+  ]
+}
